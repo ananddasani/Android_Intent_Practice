@@ -1,6 +1,8 @@
 # Android_Intent_Practice
 Android App to practice Intent (Explicit &amp; Implicit Intents)
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 
 # Code
 
@@ -93,9 +95,7 @@ Android App to practice Intent (Explicit &amp; Implicit Intents)
 ```
 
 # App Highlight
+![Intent Practice App](https://user-images.githubusercontent.com/74413402/192093022-b515487a-2e94-4756-8104-ef515dcdacd2.png)
+![Intent Practice App1](https://user-images.githubusercontent.com/74413402/192093024-008abd4b-0176-41d1-a8b4-b6196b72f6fd.png)
 
-<img src="app_images/Intent Practice Code.png" width="1000" /><br>
-
-<img src="app_images/Intent Practice App.png" width="300" /><br>
-
-<img src="app_images/Intent Practice App1.png" width="300" /><br>
+![Intent Practice Code](https://user-images.githubusercontent.com/74413402/192093018-9654f391-3d60-48f1-ab69-2571695a0080.png)
